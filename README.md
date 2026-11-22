@@ -84,7 +84,7 @@ npm run build
 To preview the production build locally:
 
 ``` bash
-npm run preview
+npm run dev
 ```
 
 ## Deployment
