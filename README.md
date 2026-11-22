@@ -5,14 +5,6 @@ A modern note-taking application built with **React** and **Vite**,
 designed to help you capture ideas, organize notes, and keep important
 information close at hand.
 
-```{=html}
-<p align="center">
-```
-`<a href="https://smart-note-k26e-ivory.vercel.app/">`{=html}`<strong>`{=html}🚀
-View Live Demo`</strong>`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
 ## Live Demo
 
 **Try SmartNote here:**\
