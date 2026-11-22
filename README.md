@@ -108,12 +108,6 @@ SmartNote/
     └── vite.config.js
 ```
 
-## Author
-
-**Parmis Delfani**
-
--   GitHub: [@p-delfani](https://github.com/p-delfani)
-
 ------------------------------------------------------------------------
 
 If you find this project useful, feel free to explore the live demo and
